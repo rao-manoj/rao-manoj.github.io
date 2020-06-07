@@ -1173,6 +1173,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
   display: block;
   max-width: 300px;
   height: auto;
+  margin: auto;
 }
 
 .contact-icon{
@@ -1185,4 +1186,5 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
   text-align: center;
   background: white);
   border-radius: 50%;
+
 }
