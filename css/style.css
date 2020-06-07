@@ -1180,6 +1180,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 /*headshot image*/
 .contact-icon {
   position: absolute;
+  margin: auto;
   top: 0;
   left: 0;
   width: 30px;
