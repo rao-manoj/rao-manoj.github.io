@@ -1169,14 +1169,15 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 /* added by Manoj*/
 
 /*headshot image*/
-.img-responsive-headshot{
+.img-responsive-headshot {
   display: block;
   max-width: 300px;
   height: auto;
   margin: auto;
 }
 
-.contact-icon{
+/*headshot image*/
+.contact-icon {
   position: absolute;
   top: 0;
   left: 0;
@@ -1184,7 +1185,6 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
   height: 30px;
   display: table;
   text-align: center;
-  background: white);
+  background: white;
   border-radius: 50%;
-
 }
