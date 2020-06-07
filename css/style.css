@@ -30,6 +30,7 @@ a {
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
+  vertical-align: middle;
 }
 a:hover, a:active, a:focus {
   color: #228896;
@@ -1187,6 +1188,10 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
   text-align: center;
   background: white;
   border-radius: 50%;
+  vertical-align: middle;
+}
+
+i{
   vertical-align: middle;
 }
 
