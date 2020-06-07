@@ -1188,3 +1188,11 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
   background: white;
   border-radius: 50%;
 }
+
+.contact-icon a{
+ vertical-align: middle;
+}
+
+.contact-icon i{
+  vertical-align: middle;
+ }
