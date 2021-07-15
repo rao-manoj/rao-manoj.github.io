@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-07-15T23:25:41+05:30</updated><id>/feed.xml</id><title type="html">Manoj Rao</title><subtitle>This is the demo site for a Jekyll theme version of HTML5 UP's sleek, responsive site template Prologue.</subtitle><author><name>Manoj Rao</name></author><entry><title type="html">Welcome to Jekyll!</title><link href="/jekyll/update/2021/07/14/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2021-07-14T15:28:18+05:30</published><updated>2021-07-14T15:28:18+05:30</updated><id>/jekyll/update/2021/07/14/welcome-to-jekyll</id><content type="html" xml:base="/jekyll/update/2021/07/14/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>Manoj Rao</name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">BSE and NSE</title><link href="/project/2020/06/06/Stock-Market-Analysis.html" rel="alternate" type="text/html" title="BSE and NSE" /><published>2020-06-06T00:00:00+05:30</published><updated>2020-06-06T00:00:00+05:30</updated><id>/project/2020/06/06/Stock-Market-Analysis</id><content type="html" xml:base="/project/2020/06/06/Stock-Market-Analysis.html">&lt;DIV&gt;
+    &lt;h2&gt;Objective: Analysis of data from Stock Market &lt;/h2&gt;
+    &lt;h4&gt;&lt;/h4&gt;
+    &lt;br&gt;
+    &lt;br&gt;
+&lt;/DIV&gt;
+
+&lt;div class=&quot;iframe-container&quot;&gt;
+    &lt;iframe src=&quot;https://public.tableau.com/views/udemy-7/Dashboard1?:display_count=y&amp;:origin=viz_share_link&amp;:showVizHome=no&amp;:embed=true&amp;:toolbar=yes&quot; frameborder=&quot;0&quot; allowfullscreen &gt;&lt;/iframe&gt;
+&lt;/div&gt;</content><author><name>Manoj</name></author><category term="project" /><summary type="html">Objective: Analysis of data from Stock Market</summary></entry><entry><title type="html">CSAT Analysis</title><link href="/project/2020/06/06/CSAT-Analysis.html" rel="alternate" type="text/html" title="CSAT Analysis" /><published>2020-06-06T00:00:00+05:30</published><updated>2020-06-06T00:00:00+05:30</updated><id>/project/2020/06/06/CSAT-Analysis</id><content type="html" xml:base="/project/2020/06/06/CSAT-Analysis.html"></content><author><name>Manoj</name></author><category term="project" /></entry><entry><title type="html">Economic Survey India</title><link href="/project/2020/06/06/Economic-Survey-India.html" rel="alternate" type="text/html" title="Economic Survey India" /><published>2020-06-06T00:00:00+05:30</published><updated>2020-06-06T00:00:00+05:30</updated><id>/project/2020/06/06/Economic-Survey-India</id><content type="html" xml:base="/project/2020/06/06/Economic-Survey-India.html">&lt;DIV&gt;
+    &lt;h2&gt;Objective: Analysis of data from Economic Survey of India &lt;/h2&gt;
+    &lt;h4&gt;&lt;/h4&gt;
+    &lt;br&gt;
+    &lt;br&gt;
+&lt;/DIV&gt;
+
+&lt;div class=&quot;iframe-container&quot;&gt;
+    &lt;iframe src=&quot;https://public.tableau.com/views/udemy-7/Dashboard1?:display_count=y&amp;:origin=viz_share_link&amp;:showVizHome=no&amp;:embed=true&amp;:toolbar=yes&quot; frameborder=&quot;0&quot; allowfullscreen &gt;&lt;/iframe&gt;
+&lt;/div&gt;</content><author><name>Manoj</name></author><category term="project" /><summary type="html">Objective: Analysis of data from Economic Survey of India</summary></entry><entry><title type="html">User Analysis</title><link href="/project/2020/06/06/User-Analysis.html" rel="alternate" type="text/html" title="User Analysis" /><published>2020-06-06T00:00:00+05:30</published><updated>2020-06-06T00:00:00+05:30</updated><id>/project/2020/06/06/User-Analysis</id><content type="html" xml:base="/project/2020/06/06/User-Analysis.html">&lt;DIV&gt;
+    &lt;h2&gt;Objective: Analysis of user data of a fictitious survey based 'Market Research' company&lt;/h2&gt;
+    &lt;h4&gt;&lt;/h4&gt;
+    &lt;br&gt;
+    &lt;br&gt;
+&lt;/DIV&gt;
+
+&lt;div class=&quot;iframe-container&quot;&gt;
+    &lt;iframe src=&quot;https://public.tableau.com/views/udemy-7/Dashboard1?:display_count=y&amp;:origin=viz_share_link&amp;:showVizHome=no&amp;:embed=true&amp;:toolbar=yes&quot; frameborder=&quot;0&quot; allowfullscreen &gt;&lt;/iframe&gt;
+&lt;/div&gt;</content><author><name>Manoj</name></author><category term="project" /><summary type="html">Objective: Analysis of user data of a fictitious survey based 'Market Research' company</summary></entry><entry><title type="html">Covid-19 Ananlysis</title><link href="/project/2020/06/06/COVID-19_Analysis.html" rel="alternate" type="text/html" title="Covid-19 Ananlysis" /><published>2020-06-06T00:00:00+05:30</published><updated>2020-06-06T00:00:00+05:30</updated><id>/project/2020/06/06/COVID-19_Analysis</id><content type="html" xml:base="/project/2020/06/06/COVID-19_Analysis.html">&lt;div class='tableauPlaceholder' id='viz1592402175033' style='position: relative'&gt;&lt;noscript&gt;&lt;a href='#'&gt;&lt;img alt=' ' src='https:&amp;#47;&amp;#47;public.tableau.com&amp;#47;static&amp;#47;images&amp;#47;GW&amp;#47;GWQH5DWFJ&amp;#47;1_rss.png' style='border: none' /&gt;&lt;/a&gt;&lt;/noscript&gt;&lt;object class='tableauViz'  style='display:none;'&gt;&lt;param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /&gt; &lt;param name='embed_code_version' value='3' /&gt; &lt;param name='path' value='shared&amp;#47;GWQH5DWFJ' /&gt; &lt;param name='toolbar' value='yes' /&gt;&lt;param name='static_image' value='https:&amp;#47;&amp;#47;public.tableau.com&amp;#47;static&amp;#47;images&amp;#47;GW&amp;#47;GWQH5DWFJ&amp;#47;1.png' /&gt; &lt;param name='animate_transition' value='yes' /&gt;&lt;param name='display_static_image' value='yes' /&gt;&lt;param name='display_spinner' value='yes' /&gt;&lt;param name='display_overlay' value='yes' /&gt;&lt;param name='display_count' value='yes' /&gt;&lt;param name='language' value='en-GB' /&gt;&lt;/object&gt;&lt;/div&gt;                
+
+&lt;script type='text/javascript'&gt;                   
+var divElement = document.getElementById('viz1592402175033');                    
+var vizElement = divElement.getElementsByTagName('object')[0];                    
+vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+var scriptElement = document.createElement('script');                    
+scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+&lt;/script&gt;</content><author><name>Manoj</name></author><category term="project" /><summary type="html"></summary></entry><entry><title type="html">Why Choose Me?</title><link href="/blog/2020/06/05/Why-Choose-Me.html" rel="alternate" type="text/html" title="Why Choose Me?" /><published>2020-06-05T00:00:00+05:30</published><updated>2020-06-05T00:00:00+05:30</updated><id>/blog/2020/06/05/Why-Choose-Me</id><content type="html" xml:base="/blog/2020/06/05/Why-Choose-Me.html">&lt;p&gt;Lorem ipsum dolor sit amet, harum malorum nominavi mea et. Atqui maluisset duo cu, summo dignissim voluptatum sit ut. Ad quo quidam delicatissimi. Cum nihil noster patrioque id. Per at maiorum definitiones. Cu vix sint aliquip. No duo alia sale persecuti.&lt;/p&gt;
+
+&lt;p&gt;Pri id consul meliore luptatum, vix iudico impetus salutatus eu, duo at causae admodum complectitur. Qui eu salutandi dignissim, ea dictas audire commodo eos, vim cu autem dicam. Novum placerat moderatius sea ex, debet labitur reprehendunt mei ad. Tempor theophrastus et est, id tollit ponderum usu, at vis consul detraxit. Sit ut adhuc aeque.&lt;/p&gt;
+
+&lt;p&gt;Ut eum labore antiopam. Cum eu modus rationibus. Illud deleniti cum cu. At vix illum vitae tation, solet oporteat complectitur at vel. Vim te simul eleifend, et per insolens conceptam, ad sint posidonium est. Ad vocent propriae principes duo.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;image right&quot;&gt;&lt;img src=&quot;/assets/images/pic03.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Audire periculis id vis, cum eu sonet option patrioque, his dicam sanctus imperdiet ad. Ad sonet dolorum est. Eu dolore adipisci volutpat mei, eu nec nisl molestiae. Usu ad veri omnesque pertinacia, duis scripserit ad nam. Quo id eligendi legendos.&lt;/p&gt;
+
+&lt;p&gt;Eos cu partiendo vituperatoribus. Mel id duis delenit atomorum, mei tamquam nostrum ne, id eum hinc decore mediocrem. Mei feugiat habemus tincidunt ut, atqui detraxit ex usu. Vix ad commodo eripuit alienum, an has idque delicatissimi. Dolores reformidans mel ne, duis numquam disputando quo te.&lt;/p&gt;
+
+&lt;p&gt;Eum eu tritani accusata qualisque, pro ei purto vocent. Vim in insolens hendrerit similique. Nobis munere antiopam ei vix. Cum no labore partiendo conceptam. Sea id vide viderer mandamus, magna posidonium nam at. Ad populo persius duo, vel audire detracto scribentur ut.&lt;/p&gt;
+
+&lt;p&gt;Vim te fastidii sententiae. Vix ad facilis gloriatur, mei an diceret iracundia vituperatoribus. Iudico consetetur dissentiunt pri ut. Consul dictas pri ne. Nec an alia volumus scaevola, eos movet deleniti argumentum te. Latine abhorreant his ad, ut modus in the following table:&lt;/p&gt;
+
+&lt;div class=&quot;table-wrapper&quot;&gt;
+  &lt;table&gt;
+    &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Name&lt;/th&gt;
+        &lt;th&gt;Description&lt;/th&gt;
+        &lt;th&gt;Price&lt;/th&gt;
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Item 1&lt;/td&gt;
+        &lt;td&gt;Ante turpis integer aliquet porttitor.&lt;/td&gt;
+        &lt;td&gt;29.99&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Item 2&lt;/td&gt;
+        &lt;td&gt;Vis ac commodo adipiscing arcu aliquet.&lt;/td&gt;
+        &lt;td&gt;19.99&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Item 3&lt;/td&gt;
+        &lt;td&gt; Morbi faucibus arcu accumsan lorem.&lt;/td&gt;
+        &lt;td&gt;29.99&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Item 4&lt;/td&gt;
+        &lt;td&gt;Vitae integer tempus condimentum.&lt;/td&gt;
+        &lt;td&gt;19.99&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Item 5&lt;/td&gt;
+        &lt;td&gt;Ante turpis integer aliquet porttitor.&lt;/td&gt;
+        &lt;td&gt;29.99&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+    &lt;tfoot&gt;
+      &lt;tr&gt;
+        &lt;td colspan=&quot;2&quot;&gt;&lt;/td&gt;
+        &lt;td&gt;100.00&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tfoot&gt;
+  &lt;/table&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Amet illum at sea, est autem fabulas eu, quod nonumes lobortis no sed. Has ei fugit adipisci reprimique. Enim tamquam ornatus pri ei. Alii harum invidunt nec ex, pri vidit latine ne. Has vocent nominati rationibus ad, ex partiendo prodesset moderatius has, vim quod paulo ad. Ex nec etiam electram, pri illud appetere eu.&lt;/p&gt;
+
+&lt;p&gt;An nobis instructior eos, eam libris aperiam corrumpit ex. Case omnesque eu per. Et vix iisque tritani. Autem posidonium eu vis, sit et mutat brute. Usu ne postulant intellegat omittantur, mazim saperet adolescens mel at.&lt;/p&gt;
+
+&lt;p&gt;Nam at velit percipit detraxit, quas modus mea ut. Ius an natum doctus vivendum. Quo at debet vidisse viderer, mollis eripuit ex nec. Sed ut choro saepe, sale augue sea et. His nemore dolorum mnesarchum at, ius an adipisci aliquando, laoreet placerat ea ius.&lt;/p&gt;</content><author><name>Manoj</name></author><category term="blog" /><summary type="html">Lorem ipsum dolor sit amet, harum malorum nominavi mea et. Atqui maluisset duo cu, summo dignissim voluptatum sit ut. Ad quo quidam delicatissimi. Cum nihil noster patrioque id. Per at maiorum definitiones. Cu vix sint aliquip. No duo alia sale persecuti.</summary></entry><entry><title type="html">My Personality traits</title><link href="/blog/2020/06/04/My-Personality-Traits.html" rel="alternate" type="text/html" title="My Personality traits" /><published>2020-06-04T00:00:00+05:30</published><updated>2020-06-04T00:00:00+05:30</updated><id>/blog/2020/06/04/My-Personality-Traits</id><content type="html" xml:base="/blog/2020/06/04/My-Personality-Traits.html">&lt;p&gt;See the icon?&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, harum malorum nominavi mea et. Atqui maluisset duo cu, summo dignissim voluptatum sit ut. Ad quo quidam delicatissimi. Cum nihil noster patrioque id. Per at maiorum definitiones. Cu vix sint aliquip. No duo alia sale persecuti.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;image left&quot;&gt;&lt;img src=&quot;/assets/images/pic03.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Pri id consul meliore luptatum, vix iudico impetus salutatus eu, duo at causae admodum complectitur. Qui eu salutandi dignissim, ea dictas audire commodo eos, vim cu autem dicam. Novum placerat moderatius sea ex, debet labitur reprehendunt mei ad. Tempor theophrastus et est, id tollit ponderum usu, at vis consul detraxit. Sit ut adhuc aeque.&lt;/p&gt;
+
+&lt;p&gt;Ut eum labore antiopam. Cum eu modus rationibus. Illud deleniti cum cu. At vix illum vitae tation, solet oporteat complectitur at vel. Vim te simul eleifend, et per insolens conceptam, ad sint posidonium est. Ad vocent propriae principes duo.&lt;/p&gt;
+
+&lt;p&gt;Audire periculis id vis, cum eu sonet option patrioque, his dicam sanctus imperdiet ad. Ad sonet dolorum est. Eu dolore adipisci volutpat mei, eu nec nisl molestiae. Usu ad veri omnesque pertinacia, duis scripserit ad nam. Quo id eligendi legendos.&lt;/p&gt;
+
+&lt;p&gt;Eos cu partiendo vituperatoribus. Mel id duis delenit atomorum, mei tamquam nostrum ne, id eum hinc decore mediocrem. Mei feugiat habemus tincidunt ut, atqui detraxit ex usu. Vix ad commodo eripuit alienum, an has idque delicatissimi. Dolores reformidans mel ne, duis numquam disputando quo te.&lt;/p&gt;
+
+&lt;p&gt;Eum eu tritani accusata qualisque, pro ei purto vocent. Vim in insolens hendrerit similique. Nobis munere antiopam ei vix. Cum no labore partiendo conceptam. Sea id vide viderer mandamus, magna posidonium nam at. Ad populo persius duo, vel audire detracto scribentur ut.&lt;/p&gt;
+
+&lt;p&gt;Vim te fastidii sententiae. Vix ad facilis gloriatur, mei an diceret iracundia vituperatoribus. Iudico consetetur dissentiunt pri ut. Consul dictas pri ne. Nec an alia volumus scaevola, eos movet deleniti argumentum te. Latine abhorreant his ad, ut modus tempor euismod pri.&lt;/p&gt;
+
+&lt;p&gt;Amet illum at sea, est autem fabulas eu, quod nonumes lobortis no sed. Has ei fugit adipisci reprimique. Enim tamquam ornatus pri ei. Alii harum invidunt nec ex, pri vidit latine ne. Has vocent nominati rationibus ad, ex partiendo prodesset moderatius has, vim quod paulo ad. Ex nec etiam electram, pri illud appetere eu.&lt;/p&gt;
+
+&lt;p&gt;An nobis instructior eos, eam libris aperiam corrumpit ex. Case omnesque eu per. Et vix iisque tritani. Autem posidonium eu vis, sit et mutat brute. Usu ne postulant intellegat omittantur, mazim saperet adolescens mel at.&lt;/p&gt;
+
+&lt;p&gt;Nam at velit percipit detraxit, quas modus mea ut. Ius an natum doctus vivendum. Quo at debet vidisse viderer, mollis eripuit ex nec. Sed ut choro saepe, sale augue sea et. His nemore dolorum mnesarchum at, ius an adipisci aliquando, laoreet placerat ea ius.&lt;/p&gt;</content><author><name>Manoj</name></author><category term="blog" /><summary type="html">See the icon?</summary></entry><entry><title type="html">Career Aspirations</title><link href="/blog/2020/06/03/Career-Aspirations.html" rel="alternate" type="text/html" title="Career Aspirations" /><published>2020-06-03T00:00:00+05:30</published><updated>2020-06-03T00:00:00+05:30</updated><id>/blog/2020/06/03/Career-Aspirations</id><content type="html" xml:base="/blog/2020/06/03/Career-Aspirations.html">&lt;p&gt;Lorem ipsum dolor sit amet, harum malorum nominavi mea et. Atqui maluisset duo cu, summo dignissim voluptatum sit ut. Ad quo quidam delicatissimi. Cum nihil noster patrioque id. Per at maiorum definitiones. Cu vix sint aliquip. No duo alia sale persecuti.&lt;/p&gt;
+
+&lt;p&gt;Pri id consul meliore luptatum, vix iudico impetus salutatus eu, duo at causae admodum complectitur. Qui eu salutandi dignissim, ea dictas audire commodo eos, vim cu autem dicam. Novum placerat moderatius sea ex, debet labitur reprehendunt mei ad. Tempor theophrastus et est, id tollit ponderum usu, at vis consul detraxit. Sit ut adhuc aeque.&lt;/p&gt;
+
+&lt;p&gt;Ut eum labore antiopam. Cum eu modus rationibus. Illud deleniti cum cu. At vix illum vitae tation, solet oporteat complectitur at vel. Vim te simul eleifend, et per insolens conceptam, ad sint posidonium est. Ad vocent propriae principes duo.&lt;/p&gt;
+
+&lt;p&gt;Audire periculis id vis, cum eu sonet option patrioque, his dicam sanctus imperdiet ad. Ad sonet dolorum est. Eu dolore adipisci volutpat mei, eu nec nisl molestiae. Usu ad veri omnesque pertinacia, duis scripserit ad nam. Quo id eligendi legendos.&lt;/p&gt;
+
+&lt;p&gt;Eos cu partiendo vituperatoribus. Mel id duis delenit atomorum, mei tamquam nostrum ne, id eum hinc decore mediocrem. Mei feugiat habemus tincidunt ut, atqui detraxit ex usu. Vix ad commodo eripuit alienum, an has idque delicatissimi. Dolores reformidans mel ne, duis numquam disputando quo te.&lt;/p&gt;
+
+&lt;p&gt;Eum eu tritani accusata qualisque, pro ei purto vocent. Vim in insolens hendrerit similique. Nobis munere antiopam ei vix. Cum no labore partiendo conceptam. Sea id vide viderer mandamus, magna posidonium nam at. Ad populo persius duo, vel audire detracto scribentur ut.&lt;/p&gt;
+
+&lt;p&gt;Vim te fastidii sententiae. Vix ad facilis gloriatur, mei an diceret iracundia vituperatoribus. Iudico consetetur dissentiunt pri ut. Consul dictas pri ne. Nec an alia volumus scaevola, eos movet deleniti argumentum te. Latine abhorreant his ad, ut modus tempor euismod pri.&lt;/p&gt;
+
+&lt;p&gt;Amet illum at sea, est autem fabulas eu, quod nonumes lobortis no sed. Has ei fugit adipisci reprimique. Enim tamquam ornatus pri ei. Alii harum invidunt nec ex, pri vidit latine ne. Has vocent nominati rationibus ad, ex partiendo prodesset moderatius has, vim quod paulo ad. Ex nec etiam electram, pri illud appetere eu.&lt;/p&gt;
+
+&lt;p&gt;An nobis instructior eos, eam libris aperiam corrumpit ex. Case omnesque eu per. Et vix iisque tritani. Autem posidonium eu vis, sit et mutat brute. Usu ne postulant intellegat omittantur, mazim saperet adolescens mel at.&lt;/p&gt;
+
+&lt;p&gt;Nam at velit percipit detraxit, quas modus mea ut. Ius an natum doctus vivendum. Quo at debet vidisse viderer, mollis eripuit ex nec. Sed ut choro saepe, sale augue sea et. His nemore dolorum mnesarchum at, ius an adipisci aliquando, laoreet placerat ea ius.&lt;/p&gt;</content><author><name>Manoj</name></author><category term="blog" /><summary type="html">Lorem ipsum dolor sit amet, harum malorum nominavi mea et. Atqui maluisset duo cu, summo dignissim voluptatum sit ut. Ad quo quidam delicatissimi. Cum nihil noster patrioque id. Per at maiorum definitiones. Cu vix sint aliquip. No duo alia sale persecuti.</summary></entry><entry><title type="html">Enterpreurial Journey</title><link href="/blog/2020/06/02/Entrepreneurial_Journey.html" rel="alternate" type="text/html" title="Enterpreurial Journey" /><published>2020-06-02T00:00:00+05:30</published><updated>2020-06-02T00:00:00+05:30</updated><id>/blog/2020/06/02/Entrepreneurial_Journey</id><content type="html" xml:base="/blog/2020/06/02/Entrepreneurial_Journey.html">&lt;p&gt;Lorem ipsum dolor sit amet, iusto ridens dictas te sed. Error latine vis et. Ex cum munere definitiones, ne quas debitis contentiones cum, epicurei constituam ea sit. Dicant aeterno dolorum ex eum, qui everti iisque consectetuer ea! Duo in falli similique, nec tritani accusam te. Enim sapientem intellegat te pri, nam at atqui accumsan vituperata.&lt;/p&gt;
+
+&lt;p&gt;Sed id graeci feugiat. No meis summo consequat vel! Albucius phaedrum omittantur eos an, ex sit lorem possim perpetua. Usu et sumo posidonium, ut qui dicat sapientem tincidunt, et has consul oporteat torquatos! In qui fabulas facilisis, justo nonumes an his, quo vidisse nusquam facilisis no. Eam iriure mediocrem suavitate an?&lt;/p&gt;
+
+&lt;p&gt;Quo te solum malorum prompta, porro oblique senserit cum et! Pro wisi cetero periculis ei, nam ullum dicit accusam ne, ad quo apeirian principes dissentiunt. An mea mucius vocent iisque? Vel eu altera consetetur, clita perfecto mea ad. Eos in vero ullum regione, ei veniam disputando pro, nam et iuvaret detracto voluptua.&lt;/p&gt;
+
+&lt;p&gt;Ad tritani deleniti sit, ne per ubique habemus singulis. Pro at integre alienum mediocritatem, mea ad libris adipisci necessitatibus, nostro constituam sit te. Recusabo oportere et mea, case minimum deleniti no quo, deseruisse conclusionemque vis te. Nam ex iudicabit constituam accommodare, dicam singulis ex eos! Eu mea viderer ceteros repudiandae, id erat voluptatum mea, ut consul omittam convenire quo. Id justo ipsum mei, modus contentiones per et! At mel omnium lucilius instructior, vel quando graeco in, eos docendi periculis eloquentiam ut.&lt;/p&gt;
+
+&lt;p&gt;Eam habemus aliquando ut. Id idque virtute antiopam duo, et idque falli incorrupte eos, in sea omnium instructior. Mei ex nostrud moderatius cotidieque, cu sea partiendo euripidis, eam no tollit doming! Has ne facilisi vulputate, aliquando disputationi mel eu. Ex pri diceret delectus intellegam, regione definiebas pro ex.&lt;/p&gt;</content><author><name>Manoj</name></author><category term="blog" /><summary type="html">Lorem ipsum dolor sit amet, iusto ridens dictas te sed. Error latine vis et. Ex cum munere definitiones, ne quas debitis contentiones cum, epicurei constituam ea sit. Dicant aeterno dolorum ex eum, qui everti iisque consectetuer ea! Duo in falli similique, nec tritani accusam te. Enim sapientem intellegat te pri, nam at atqui accumsan vituperata.</summary></entry></feed>
