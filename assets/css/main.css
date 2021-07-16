@@ -233,9 +233,9 @@ section ul, section ol, article ul, article ol { padding-left: 0.25em; margin-le
 
 .image img { display: block; width: 100%; }
 
-.image.avatar48 { width: 48px; height: 48px; }
+.image.avatar48 { width: 100px; height: 100px; display: flex; align-items: center; justify-content: center; }
 
-.image.avatar48 img { width: 48px; height: 48px; }
+.image.avatar48 img { width: 80px; height: 80px; }
 
 .image.fit { display: block; width: 100%; }
 
@@ -344,15 +344,17 @@ input[type="button"]:active, input[type="submit"]:active, input[type="reset"]:ac
 
 #header .icons a:hover { color: #fff; }
 
-#logo { position: relative; padding: 1.5em 0 1em; min-height: 48px; cursor: default; background: black; text-align: center; }
+#logo { position: relative; padding: 1em 0.3em 0.5em; min-height: 48px; cursor: default; background: black; text-align: center; }
 
-#logo a { border: 0; }
+#logo a { border: 0; display: flex; justify-content: space-between; }
 
-#logo h1 { position: relative; color: #fff; font-weight: 600; font-size: 1em; line-height: 1em; }
+#logo h1 { position: relative; color: #fff; font-weight: 600; font-size: 1.3em; line-height: 1em; }
 
-#logo p { position: relative; display: block; font-size: 0.6em; color: rgba(255, 255, 255, 0.8); line-height: 1.25em; margin: 0.5em 0 0 0; }
+#logo p { position: relative; display: block; font-size: 0.7em; color: rgba(255, 255, 255, 0.8); line-height: 1.25em; margin: 0.5em 0 0 0; }
 
 #logo .image { position: relative; left: 0; top: 0; }
+
+#logo .identity { display: flex; flex-direction: column; justify-content: center; text-align: left; }
 
 #nav ul { list-style: none; margin-bottom: 0; }
 
