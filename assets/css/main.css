@@ -430,9 +430,13 @@ input[type="button"]:active, input[type="submit"]:active, input[type="reset"]:ac
 @media screen and (max-width: 736px) { /* Basic */ body, input, textarea, select { font-size: 14pt; } h2 { font-size: 1.5em; letter-spacing: 0; font-weight: 300; } .container { padding: 0 15px 0 15px; } /* List */ ul.icons a { width: 2em; font-size: 1.25em; } /* Main */ #main > section, #main article { padding: 2em 0; } #main section.cover { padding: 4em 0em; } #main section.cover header { padding: 0 1em; } /* Footer */ #footer .copyright li { display: block; line-height: 1.25em; border: 0; padding: 0; margin: 1em 0 0 0; } #footer .copyright li:first-child { margin-top: 0; } }
 
 /* Custom */
-.skill { width: 50%; }
+.exp { margin: 2.5%; padding: 2.5%; background: white; border-radius: 10%; }
 
-@media screen and (max-width: 767px) { .skill { width: 100%; } }
+.exp-sub { display: flex; justify-content: space-between; }
+
+.skill { width: 45%; margin: 2.5%; padding: 2.5%; background: white; border-radius: 10%; }
+
+@media screen and (max-width: 767px) { .skill { width: 90%; padding: 5%; text-align: center; } .exp { text-align: center; } .exp-sub { flex-direction: column; } }
 
 .iframe-container { overflow: hidden; padding-top: 56.25%; position: relative; }
 
